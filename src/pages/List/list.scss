@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  background: #f3f3f5;
+  .side {
+    flex: 1;
+  }
+  .main {
+    flex: 6;
+  }
+}

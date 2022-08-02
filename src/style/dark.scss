@@ -1,0 +1,58 @@
+.app.dark {
+  .home {
+    background-color: black;
+    color: #b4b4b4;
+  }
+
+  .table {
+    .tableCell {
+      color: #b4b4b4;
+    }
+    background-color: black;
+    .tableRow {
+      color: #b4b4b4;
+    }
+  }
+
+  .navbar {
+    color: #b4b4b4;
+    background-color: black;
+
+    .search {
+      color: #b4b4b4;
+      border: 1px solid #b4b4b4;
+    }
+  }
+
+  .sidebar {
+    background-color: black;
+    box-shadow: 2px 4px 10px rgba(37, 36, 36, 0.651);
+
+    .link {
+      color: #b4b4b4;
+    }
+    .img {
+      box-shadow: 2px 4px 10px rgba(172, 172, 172, 0.288);
+    }
+  }
+
+  .featured {
+    color: #b4b4b4;
+    box-shadow: 2px 4px 10px rgba(37, 36, 36, 0.651);
+    .top {
+      color: #b4b4b4;
+    }
+    .bottom {
+      color: #b4b4b4;
+    }
+  }
+
+  .widget {
+    box-shadow: 2px 4px 10px rgba(37, 36, 36, 0.651);
+    .left {
+      .title {
+        color: #b4b4b4;
+      }
+    }
+  }
+}
